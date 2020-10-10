@@ -1,0 +1,15 @@
+# Site settings
+title: Something for Someone
+#email: your-email@example.com
+description: >-
+  Contents for me, for you, or for someone else.
+baseurl: ""
+url: ""
+twitter_username: WilliamBertan
+github_username:  WBertan
+linkedin_username: wbertan
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
